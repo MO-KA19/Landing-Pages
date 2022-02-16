@@ -8,8 +8,8 @@ also the preview of every project is available in it folder so you can see how t
 all right reserved for the owners of the PSD templat for the UI&UX design of each template and their anchor already in the project
 
 Live Demos:
-Landing-1: 
-Landing-2: 
-Landing-3: 
-Landing-4: 
-Landing-5: 
+Land-1: https://vibrant-fermi-933804.netlify.app/
+Land-2: https://vibrant-fermi-933804.netlify.app/
+Land-3: https://mystifying-swanson-72bf28.netlify.app
+Land-4: https://determined-wing-cd7ec2.netlify.app/
+Land-5: https://zen-allen-68fe45.netlify.app/
