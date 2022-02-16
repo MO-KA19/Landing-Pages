@@ -8,8 +8,8 @@ also the preview of every project is available in it folder so you can see how t
 all right recived for the owners of the PSD templat for the UI&UX design of each template and their anchor already in the project
 
 Live Demos:
-Landing-1: https://youthful-mestorf-a36809.netlify.app
-Landing-2: https://optimistic-cray-ab9733.netlify.app
-Landing-3: https://upbeat-bardeen-c85d56.netlify.app
-Landing-4: https://optimistic-fermi-9bcb92.netlify.app
-Landing-5: https://thirsty-mahavira-bc11ac.netlify.app
+Landing-1: 
+Landing-2: 
+Landing-3: 
+Landing-4: 
+Landing-5: 
