@@ -10,7 +10,7 @@ all right reserved for the owners of the PSD templat for the UI&UX design of eac
 
 
 Live Demos:
-Land-1: https://flamboyant-bell-80c536.netlify.app
+Land-1: https://peaceful-ptolemy-1cfaf1.netlify.app
 Land-2: https://vibrant-fermi-933804.netlify.app/
 Land-3: https://mystifying-swanson-72bf28.netlify.app
 Land-4: https://determined-wing-cd7ec2.netlify.app/
