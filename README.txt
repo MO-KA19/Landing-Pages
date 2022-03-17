@@ -15,3 +15,4 @@ Land-2: https://vibrant-fermi-933804.netlify.app/
 Land-3: https://mystifying-swanson-72bf28.netlify.app
 Land-4: https://determined-wing-cd7ec2.netlify.app/
 Land-5: https://zen-allen-68fe45.netlify.app/
+Land-6: https://upbeat-brahmagupta-9a4dd8.netlify.app/
