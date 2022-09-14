@@ -258,3 +258,127 @@ a {
     bottom: 540px;
     left: 1600px;
 }
+
+
+@media (max-width:450px) {
+    header {
+        width: 400px;
+        height: fit-content;
+    }
+
+    .logo {
+         right: 0px; 
+        bottom: 0px;
+    }
+
+    .logo img {
+        height: 70px;
+        padding-left: 50px;
+    }
+
+    .logo h1 {
+        position: relative;
+        bottom: 0px;
+        left: 0;
+        letter-spacing: 5px;
+        font-size: 32px;
+        font-weight: bold;
+        line-height: 32px;
+    }
+
+    .logo img {
+        height: 70px;
+        padding-left: 0px;
+    }
+
+    ul {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        margin-right: 0px;
+        width: fit-content;
+    }
+
+    .LINKS ul h2 li {
+        font-size: 16px;
+        font-weight: 900;
+        padding-left: 0px;
+        padding-bottom: 12px;
+    }
+
+    ul {
+        padding-top: 16px;
+    }
+
+    .container {
+        height: fit-content;
+        width: 450px;
+        margin-top: 100px;
+    }
+
+    .title {
+        left: 0;
+    }
+
+    .title h2 {
+        font-family: sans-serif;
+        font-weight: bold;
+        width: fit-content;
+        color: white;
+        font-size: 100px;
+        letter-spacing: 0px;
+        line-height: 100px;
+    }
+
+    .title h3 {
+        width: fit-content;
+        font-size: 80px;
+        letter-spacing: 6px;
+        color: rgb(217, 195, 136);
+        text-shadow: 22.957px 12.206px 24.36px rgba(0, 0, 0, 0.36);
+        font-family: cursive;
+        z-index: 0;
+        position: absolute;
+        left: 0px;
+        bottom: -40px;
+        line-height: 180px;
+        transform: rotate(-5deg);
+        filter: brightness(0.9);
+    }
+
+    .title p {
+        font-family: sans-serif;
+        color: white;
+        font-size: 18px;
+        letter-spacing: 3px;
+        position: relative;
+        top: 230px;
+        text-align: left;
+        right: 0;
+    }
+
+    center {
+        display: none;
+    }
+
+    .social {
+        position: relative;
+        width: 220px;
+        height: 60px;
+        display: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 140px;
+        bottom: 0px; 
+        left: 0px;
+    }
+
+    a {
+        display: none;
+    }
+
+    .menu {
+        left: 0;
+    }
+}
