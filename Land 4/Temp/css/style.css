@@ -198,3 +198,103 @@ nav ul h2:hover {
     opacity: 0.5;
     cursor: pointer;
 }
+
+@media (max-width:450px) {
+    
+    header {
+        padding-top: 0;
+        display: flex;
+        justify-content: space-between;
+        height: fit-content;
+        width: 400px;
+    }
+
+    .logo {
+        padding-top: 24px; 
+        margin-left: 0px;
+        width: fit-content;
+        height: fit-content;
+    }
+
+    .logo img {
+        height: 110px;
+    }
+
+    nav {
+        width: fit-content;
+    }
+
+    nav ul h2 li {
+        letter-spacing: 1px;
+        font-size: 18px;
+        font-weight: 500;
+        transition: 0.5s;
+        padding: 0;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        width: fit-content;
+        text-align: center;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav ul h2 {
+        padding-bottom: 0;
+    }
+
+    .cookie {
+        display: none;
+    }
+
+    .land {
+        height: 665px;
+        width: 450px;
+        margin-right: 0px;
+    }
+
+    .text {
+        height: 650px;
+        width: fit-content;
+        margin: 0px;
+    }
+
+    .land h1 {
+        letter-spacing: 5px;
+        font-weight: 100;
+        font-size: 120px;
+        font-family: 'Grand Hotel', "cursive";
+        width: fit-content;
+        display: block;
+        margin-right: 0px;
+        color: rgb(111, 57, 27);
+    }
+
+    .btn {
+        position: relative;
+        left: 0px; 
+        bottom: 18px;
+        padding: 16px;
+        width: 400px;
+    }
+
+    .social {
+        position: fixed;
+        width: 240px;
+        height: 50px;
+        margin-top: 900px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        left: 75px;
+    }
+
+    a {
+        display: none;
+    }
+
+    .container {
+        width: fit-content;
+    }
+}
