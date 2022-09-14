@@ -14,4 +14,4 @@ Land-1: https://peaceful-ptolemy-1cfaf1.netlify.app
 Land-2: https://beautiful-faloodeh-273b44.netlify.app/
 Land-3: https://gleeful-sunshine-357bc9.netlify.app/
 Land-4: https://tourmaline-dolphin-4056f7.netlify.app/
-Land-5: https://upbeat-brahmagupta-9a4dd8.netlify.app/
+Land-6: https://upbeat-brahmagupta-9a4dd8.netlify.app/
