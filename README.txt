@@ -11,8 +11,8 @@ all right reserved for the owners of the PSD templat for the UI&UX design of eac
 
 Live Demos:
 Land-1: https://peaceful-ptolemy-1cfaf1.netlify.app
-Land-2: https://vibrant-fermi-933804.netlify.app/
-Land-3: https://mystifying-swanson-72bf28.netlify.app
-Land-4: https://determined-wing-cd7ec2.netlify.app/
+Land-2: https://beautiful-faloodeh-273b44.netlify.app/
+Land-3: https://gleeful-sunshine-357bc9.netlify.app/
+Land-4: https://tourmaline-dolphin-4056f7.netlify.app/
 Land-5: https://zen-allen-68fe45.netlify.app/
 Land-6: https://upbeat-brahmagupta-9a4dd8.netlify.app/
